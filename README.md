@@ -17,16 +17,6 @@ Using **Arduino Uno** as our central controller, we engineered a highly responsi
 * **Next-Gen Hygiene & Touchless Automation:** Engineered an Automatic Water Tap and a Smart Dustbin utilizing Ultrasonic & IR sensors to facilitate a completely contactless and hygienic environment.
 
 ---
-
-## 📸 Hardware Showcase & Gallery
-
-*(Apni uploaded pictures ko README mein display karne ke liye neche unke exact filenames likhein)*
-
-![Working Hardware Prototype](image1.jpg)
-![Circuit Architecture Diagram](image2.jpg)
-
-> 💡 **How to show your pictures here:** Make sure you upload your project photos to this repository first. Then, replace `image1.jpg` and `image2.jpg` in the code above with the exact names of your uploaded files (e.g., `model.png`, `team.jpg`).
-
 ---
 
 ## 🤝 The Power of Collaboration
